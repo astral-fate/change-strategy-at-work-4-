@@ -27,10 +27,8 @@ d.	Indicate the intervals of time where the project is under or over the planned
  
 e.	Evaluate the budget gain or loss that occurred on week 15 (6 marks). 
  
-Activity 	Duration (Weeks) 	PV 
-(‘000) 	EV 
-(‘000) 	AC 
-(‘000) 
+Activity 	Duration (Weeks) 
+PV (‘000) 	EV (‘000) 	AC (‘000) 
 A 	5 	100 	200 	150 
 B 	10 	200 	300 	250 
 C 	15 	300 	400 	350 
@@ -39,7 +37,8 @@ E 	25 	500 	500 	500
 F 	30 	600 	550 	650 
 G 	35 	700 	650 	750 
 H 	40 	800 	750 	850 
-	 	 	          Table 1 
+
+	         Table 1 
  
 Answer:   
 a. EV: Earned Value is the budgeted cost of work performed (3 points) 
@@ -49,42 +48,31 @@ CV = EV - AC 	(1 point) 	= Cost Variance 	(1 point)	; If CV < 0, the project is 
 budget. if CV > 0, the project is under budget. If CV = 0, the project is on budget.
  
 (Grant 1 point for any of the correct IF statements) 
-SV = EV - PV (1 point) = Schedule Variance (1 point); If SV < 0, the project is behind schedule. If SV > 0, the project is ahead of schedule. If SV = 0, the project is on schedule.  
+SV = EV - PV (1 point) = Schedule Variance (1 point); 
 
 
 
+
+
+
+If SV < 0, the project is behind schedule. If SV > 0, the project is ahead of schedule. If SV = 0, the project is on schedule.  
 
 
 
 
 
 (Grant 1 point for any of the correct IF statements) 
+
+
+
 b.  
  
  
 
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/63984422/147290095-a0625e6b-900f-4072-a024-a60cae46d3e3.png">
+
+
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
